@@ -18,7 +18,7 @@ Cards informativos são exibidos para cada tecnologia, contendo título, imagem 
 A página possui um footer com informações de contato e direitos autorais.</p>
 
 <h2>🔐Acesso ao projeto</h2>
-<p>Link da página:</p>
+<p>Link da página: https://kristtofer-bruno.github.io/DevConhecimento/</p>
 <p>Se quiser abrir localmente, salve os arquivos HTML, CSS e JavaScript em um diretório local.
 Abra o arquivo index.html em um navegador web.
 A página inicial será carregada e exibirá as informações sobre as tecnologias front-end.</p>  
